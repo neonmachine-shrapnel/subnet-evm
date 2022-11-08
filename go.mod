@@ -3,7 +3,7 @@ module github.com/ava-labs/subnet-evm
 go 1.18
 
 require (
-	github.com/VictoriaMetrics/fastcache v1.10.0
+	github.com/VictoriaMetrics/fastcache v1.12.0
 	github.com/ava-labs/avalanche-network-runner v1.3.1-0.20221104223238-35be10cd3867
 	github.com/ava-labs/avalanchego v1.9.2
 	github.com/cespare/cp v0.1.0
