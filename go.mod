@@ -6,7 +6,7 @@ require (
 	github.com/VictoriaMetrics/fastcache v1.10.0
 	github.com/ava-labs/avalanche-network-runner v1.3.1-0.20221104223238-35be10cd3867
 	github.com/ava-labs/avalanchego v1.9.2
-	github.com/cespare/cp v0.1.0
+	github.com/cespare/cp v1.1.1
 	github.com/creack/pty v1.1.18
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v1.8.0
