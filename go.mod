@@ -3,7 +3,7 @@ module github.com/ava-labs/subnet-evm
 go 1.18
 
 require (
-	github.com/VictoriaMetrics/fastcache v1.10.0
+	github.com/VictoriaMetrics/fastcache v1.12.1
 	github.com/ava-labs/avalanche-network-runner v1.3.1-0.20221104223238-35be10cd3867
 	github.com/ava-labs/avalanchego v1.9.2
 	github.com/cespare/cp v0.1.0
@@ -41,7 +41,7 @@ require (
 	github.com/urfave/cli/v2 v2.10.2
 	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
-	golang.org/x/sys v0.1.0
+	golang.org/x/sys v0.5.0
 	golang.org/x/text v0.4.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
 	gopkg.in/urfave/cli.v1 v1.20.0
@@ -67,7 +67,7 @@ require (
 	github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792 // indirect
 	github.com/btcsuite/winsvc v1.0.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.1.3 // indirect
-	github.com/cespare/xxhash/v2 v2.1.2 // indirect
+	github.com/cespare/xxhash/v2 v2.2.0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/decred/dcrd/crypto/blake256 v1.0.0 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v3 v3.0.0-20200627015759-01fd2de07837 // indirect
